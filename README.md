@@ -1,4 +1,4 @@
 # Single Page CV
 
 Project URL:
-https://codepen.io/Melaninebarbie/pen/azBGBzQ
+https://angekoumba-bot.github.io/single-page-cv/
